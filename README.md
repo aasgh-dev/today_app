@@ -1,8 +1,8 @@
-ToDayDo App
-A simple and elegant Flutter-based to-do list application. This app helps you manage your daily tasks, allowing you to add, mark as complete, and delete tasks with ease.
-
 👨‍🏫 Note
 This demo project was created as part of an introductory Flutter course by Ammar Alkhatib.
+
+ToDayDo App
+A simple and elegant Flutter-based to-do list application. This app helps you manage your daily tasks, allowing you to add, mark as complete, and delete tasks with ease.
 
 ✨ Features
 Add Tasks: Easily add new tasks to your list.
