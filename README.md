@@ -18,7 +18,7 @@ Clean UI: A user-friendly and visually appealing interface.
 The app is built using Flutter and follows a standard architectural pattern for a simple application.
 
 📂 File Structure 
-      |lib/
+      lib/
 
       ├── main.dart
       ├── models/
