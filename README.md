@@ -24,16 +24,20 @@ lib/
 
 ├── models/
 
-│   ├── task.dart
+│     ├── task.dart
 
-│   └── task_data.dart
+│     └── task_data.dart
 
 ├── screens/
-│   ├── add_task_screen.dart
-│   └── tasks_screen.dart
+
+│     ├── add_task_screen.dart
+
+│     └── tasks_screen.dart
+
 └── widgets/
-    ├── task_tile.dart
-    └── tasks_list.dart
+
+      ├── task_tile.dart
+      └── tasks_list.dart
 
 🖼️ App Screenshots
 ![Screenshot_20250918_164754](https://github.com/user-attachments/assets/1803df0e-4dcf-4625-8a56-d0c9144a59f5)
