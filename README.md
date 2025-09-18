@@ -17,27 +17,19 @@ Clean UI: A user-friendly and visually appealing interface.
 🚀 How It Works
 The app is built using Flutter and follows a standard architectural pattern for a simple application.
 
-📂 File Structure
-lib/
+📂 File Structure 
+      |lib/
 
-├── main.dart
-
-├── models/
-
-│     ├── task.dart
-
-│     └── task_data.dart
-
-├── screens/
-
-│     ├── add_task_screen.dart
-
-│     └── tasks_screen.dart
-
-└── widgets/
-
-      ├── task_tile.dart
-      └── tasks_list.dart
+      ├── main.dart
+      ├── models/
+      │     ├── task.dart
+      │     └── task_data.dart
+      ├── screens/
+      │     ├── add_task_screen.dart
+      │     └── tasks_screen.dart
+      └── widgets/
+            ├── task_tile.dart
+            └── tasks_list.dart
 
 🖼️ App Screenshots
 ![Screenshot_20250918_164754](https://github.com/user-attachments/assets/1803df0e-4dcf-4625-8a56-d0c9144a59f5)
