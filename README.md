@@ -19,11 +19,15 @@ The app is built using Flutter and follows a standard architectural pattern for 
 
 📂 File Structure
 lib/
+
 ├── main.dart
 
 ├── models/
+
 │   ├── task.dart
+
 │   └── task_data.dart
+
 ├── screens/
 │   ├── add_task_screen.dart
 │   └── tasks_screen.dart
